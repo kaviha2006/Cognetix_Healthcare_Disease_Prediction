@@ -73,3 +73,7 @@ We used **SHAP (SHapley Additive exPlanations)** to interpret the model's predic
 - **Data Size**: The dataset is small (768 entries). More data would improve generalization.
 - **Demographics**: Restricted to Pima Indian heritage females; may not generalize to all populations.
 - **Future**: Incorporate more diverse datasets and real-time API integration.
+
+## Author
+- Name: Kaviha R M
+- Mail-id: kaviharavichandran2006@gmail.com
